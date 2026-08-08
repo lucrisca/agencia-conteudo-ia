@@ -1,0 +1,30 @@
+nome_canal: "IA para Pequenos Negócios"  # nome definitivo a confirmar
+nicho: ia_aplicada_pequenos_negocios
+proposta_valor: "Ferramentas de IA que pequenos negócios usam pra economizar tempo e dinheiro"
+
+publico_alvo:
+  faixa_etaria: "30-50"
+  perfil: "dono de pequeno negócio/autônomo"
+  familiaridade_tema: baixa
+
+tom:
+  adjetivos: [didatico, sem_jargao, focado_em_resultado]
+  nunca:
+    - recomendar ferramenta sem deixar claro custo/limitação real
+
+identidade_visual:
+  paleta: dark
+  estilo: "leitura mais corporativa/confiável que o canal de criadores"
+
+estrutura_conteudo:
+  gancho_padrao: "dor específica do pequeno empresário (ex: tempo gasto em atendimento)"
+  cta_padrao: "afiliado de SaaS + consultoria/implementação (ticket mais alto)"
+
+manutencao_exigida: alta
+motivo: "nicho de ferramentas de IA muda rápido, exige checagem frequente de preço/recursos"
+
+plataformas_planejadas: [youtube, tiktok, instagram, pinterest]
+
+modo_estrategista: recomendacao  # recomendacao ou autonomo
+
+sequencia_lancamento: "após canais evergreen (curiosidades, saúde, meditação) estarem estáveis"

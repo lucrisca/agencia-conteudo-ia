@@ -1,0 +1,31 @@
+nome_canal: "Radar IA"
+nicho: ia_e_tecnologia_geral
+proposta_valor: "Ferramentas e novidades de IA explicadas de forma prática, sem hype"
+
+publico_alvo:
+  faixa_etaria: "25-45"
+  perfil: "profissionais de produto/tech (PMs, designers, devs) e entusiastas de produtividade"
+  familiaridade_tema: media_a_alta
+
+tom:
+  adjetivos: [direto, tecnico_mas_acessivel, sem_hype]
+  nunca:
+    - prometer que ferramenta substitui profissional sem ressalva
+    - citar dado/preço desatualizado como se fosse atual
+
+identidade_visual:
+  paleta: dark
+  estilo: "tela dividida, screenshots/demos de ferramentas, tipografia técnica azul/verde neon"
+
+estrutura_conteudo:
+  gancho_padrao: "mostrar tempo/dor real que a ferramenta resolve"
+  cta_padrao: "link de afiliado na descrição + produto próprio quando aplicável"
+
+manutencao_exigida: alta
+motivo: "nicho de ferramentas de IA muda rápido, exige checagem frequente de preço/recursos"
+
+plataformas_planejadas: [youtube, tiktok, instagram, pinterest]
+
+modo_estrategista: recomendacao
+
+sequencia_lancamento: "após canais evergreen estarem estáveis; maior RPM potencial do conjunto"

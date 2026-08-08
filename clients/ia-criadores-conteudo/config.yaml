@@ -1,0 +1,31 @@
+nome_canal: "IA para Criadores de Conteúdo"  # nome definitivo a confirmar
+nicho: ia_aplicada_producao_conteudo
+proposta_valor: "Como criadores solo usam IA pra produzir mais sem virar refém do algoritmo"
+
+publico_alvo:
+  faixa_etaria: "20-40"
+  perfil: "criador de conteúdo solo ou pequena equipe"
+  familiaridade_tema: alta
+
+tom:
+  adjetivos: [direto, pratico, credivel]
+  nunca:
+    - prometer renda passiva fácil
+    - vender IA como substituta de curadoria/esforço
+
+identidade_visual:
+  paleta: dark
+  consistencia: mesma linha visual dos demais canais da agência
+
+estrutura_conteudo:
+  gancho_padrao: "mostrar resultado/problema real antes de explicar a ferramenta"
+  cta_padrao: "produto próprio (guia/mentoria de automação de conteúdo)"
+
+manutencao_exigida: alta
+motivo: "nicho de ferramentas de IA muda rápido, exige checagem frequente de preço/recursos"
+
+plataformas_planejadas: [youtube, tiktok, instagram, pinterest]
+
+modo_estrategista: recomendacao  # recomendacao ou autonomo
+
+sequencia_lancamento: "após canais evergreen (curiosidades, saúde, meditação) estarem estáveis"

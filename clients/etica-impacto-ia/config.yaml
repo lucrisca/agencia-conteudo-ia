@@ -1,0 +1,33 @@
+nome_canal: "Ética e Impacto da IA"  # nome definitivo a confirmar
+nicho: etica_impacto_ia_sociedade
+proposta_valor: "O que a IA está mudando na sua vida, além do hype"
+
+publico_alvo:
+  faixa_etaria: "25-55"
+  perfil: "público amplo — preocupados com emprego, pais, curiosos sem interesse técnico"
+  familiaridade_tema: baixa_a_media
+
+tom:
+  adjetivos: [reflexivo, equilibrado, honesto]
+  nunca:
+    - tomar posição categórica em temas controversos (ex: "IA vai substituir X profissão" como fato)
+    - ser alarmista ou hype cego
+
+identidade_visual:
+  paleta: dark
+  estilo: "editorial/documentário, menos tech corporativo"
+
+estrutura_conteudo:
+  gancho_padrao: "pergunta que gera reflexão, não alarme"
+  cta_padrao: "construção de audiência/autoridade — porta de entrada para os outros canais de IA"
+
+manutencao_exigida: baixa
+motivo: "conteúdo mais evergreen, não depende de cobrir lançamento de ferramenta específica"
+
+plataformas_planejadas: [youtube, tiktok, instagram, pinterest]
+
+modo_estrategista: recomendacao  # recomendacao ou autonomo
+
+sequencia_lancamento: "candidato a entrar primeiro entre os 3 canais de IA — menor risco/manutenção"
+
+papel_no_funil: "alimenta os canais IA para Criadores de Conteúdo e IA para Pequenos Negócios"
