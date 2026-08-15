@@ -1,0 +1,20 @@
+# Dados de runtime (não são código, não versionar)
+n8n_data/
+postgres_data/
+media/
+
+# Variáveis de ambiente com credenciais reais
+.env
+setup-servidor-local/ .env
+*.env
+!.env.example
+!setup-servidor-local/.env.example
+
+#Overrides locais
+docker-compose.override.yml
+
+# Sistema
+.DS_Store
+
+
+
